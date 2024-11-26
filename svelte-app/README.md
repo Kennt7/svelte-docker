@@ -1,0 +1,1 @@
+Az alkalmazás a localhost:8080-as porton futtatható a böngészőben.
