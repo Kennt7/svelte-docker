@@ -1,5 +1,5 @@
 <script>
-    let name = "Zoli"; // Ide írd be a neved
+    let name = "Zoli.."; // Ide írd be a neved
 </script>
 
 <main>
